@@ -1,1 +1,1 @@
-# Live-Straming-Plateform
+# Live-Straming-Platform
